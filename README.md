@@ -33,4 +33,9 @@ https://qz.com/308144/bill-gates-five-favorite-books-of-2014/
 
 ```
 
+## Usage
 
+```python
+python3 extract.py <exported_recommendations_html> urls.txt
+python3 fetch.py urls.txt <formatted_output_txt>
+```
